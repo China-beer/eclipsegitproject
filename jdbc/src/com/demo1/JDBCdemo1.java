@@ -6,7 +6,7 @@ import java.sql.ResultSet;
 import java.sql.Statement;
 
 import org.junit.Test;
-
+//test
 public class JDBCdemo1 {
 	@Test
 	public void demo() throws Exception {

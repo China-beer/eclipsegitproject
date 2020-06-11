@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.Statement;
-//helloworld
+//1111
 import org.junit.Test;
 //test
 public class JDBCdemo1 {
